@@ -34,5 +34,7 @@ const product =(Arr)=>{
     console.log("Product of Array is :",pro);
 }
 
+module.exports = {Add,product,Minimum_number,Maximun_number};
+
 
 
